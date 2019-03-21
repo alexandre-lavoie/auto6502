@@ -7,4 +7,4 @@ Auto6502 requires an instalement of the AutoIt (v3.X+) language. The example Mai
 
 # Program
 
-![alt text](https://github.com/alexandre-lavoie/auto6502/blob/master/Images/Program.png?raw=true)
+![alt text](https://github.com/alexandre-lavoie/auto6502/blob/master/Images/Program.PNG?raw=true)
